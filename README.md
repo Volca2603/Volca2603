@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Volca2603/Volca2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Web3 🌱 | 🎮 爱打游戏 | 仰卧起坐学习者
+Web3/区块链零基础入门中，做了一点简单项目，但每天都在啃基础、敲简单代码，记录我的半死不活的学习过程～
+目前目标：把 Uniswap 和一些简单量化策略了解一下，每天学一下英语
 
-Here are some ideas to get you started:
+### 📚 我的学习进度（小白真实版）
+- 正在学：Uniswap / 预测市场 / Agent开发
+- 刚学会：Solidity基础语法 / 区块链区块、交易的基本理解
+- 待学清单：Web3 进阶 / 量化 / 英语 / 基础教育补齐中
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 我的学习笔记/练习代码
+- 【学习笔记】：我的笔记已经散落在各个设备里，但是已经在准备做一个自己的知识库了，到时候会把🔗放这里
+- 【代码练习】：做了预测市场的简单解码与索引[https://github.com/Volca2603/polymarket-indexer]
+
+### 🔗 找我玩
+- X(Twitter)：[https://x.com/volcattx]
+
+### 💡 碎碎念
+刚刚创建了个人主页，好奇探索中
