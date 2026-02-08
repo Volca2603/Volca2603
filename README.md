@@ -11,7 +11,7 @@ Web3/区块链零基础入门中，做了一点简单项目，但每天都在啃
 
 ### 📝 我的学习笔记/练习代码
 - 【学习笔记】：我的笔记已经散落在各个设备里，但是已经在准备做一个自己的知识库了，到时候会把🔗放这里
-- 【代码练习】：做了预测市场的简单解码与索引:[预测市场代码练习](https://github.com/Volca2603/polymarket-indexer)
+- 【代码练习】：做了预测市场的简单解码与索引：[预测市场代码练习](https://github.com/Volca2603/polymarket-indexer)
 
 ### 🔗 找我玩
 - X(Twitter)：[我的X主页](https://x.com/volcattx)
